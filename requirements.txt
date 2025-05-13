@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==1.4.4
+matplotlib==3.3.2
+seaborn==0.11.1
+jupyter
+scikit-learn==1.6.1
